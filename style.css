@@ -1,0 +1,15 @@
+      img {
+        width: 250px;
+        float: left;
+      }
+     body {
+      background-color: #9B92E0;
+
+      }
+      .container{
+            display:  inline-flex;
+          background-color: #4596E1;
+          border-radius: 100px;
+
+
+      }
